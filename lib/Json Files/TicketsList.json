@@ -1,0 +1,36 @@
+{
+    "tickets":[
+        {
+            "id":1,
+            "origin":"DEL",
+            "originFullName":"Delhi",
+            "Destination":"BNG",
+            "DestiFullName":"Bangalore",
+            "TotalTime":"4H 20M",
+            "Date":"3 June",
+            "Time":"08:00 AM",
+            "Number":31
+        },
+        {
+            "id":2,
+            "origin":"NYC",
+            "originFullName":"New York",
+            "Destination":"DEL",
+            "DestiFullName":"Delhi",
+            "TotalTime":"34H 20M",
+            "Date":"15 July",
+            "Time":"10:00 PM",
+            "Number":17
+        },
+        { "id":1,
+        "origin":"AHM",
+        "originFullName":"Ahemdabad",
+        "Destination":"MUB",
+        "DestiFullName":"Mumbai",
+        "TotalTime":"1H 20M",
+        "Date":"6 Aug",
+        "Time":"06:00 AM",
+        "Number":24
+        }
+    ]
+}

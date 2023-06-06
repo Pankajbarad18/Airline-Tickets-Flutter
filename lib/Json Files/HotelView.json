@@ -1,0 +1,24 @@
+{
+    "items":[
+        {
+            "id":"Hotel1",
+            "Name":"Reyan",
+            "img":"lib/Images/one.jpg",
+            "price":"$40/night"
+        },
+        {
+            "id":"Hotel2",
+            "Name":"Pankaj",
+            "img":"lib/Images/two.jpg",
+            "price":"$100/night"
+
+        }, {
+            "id":"Hotel3",
+            "Name":"Robin",
+            "img":"lib/Images/three.jpg",
+            "price":"$80/night"
+
+        }
+
+    ]
+}
